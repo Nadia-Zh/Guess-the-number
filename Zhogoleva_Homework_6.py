@@ -40,9 +40,9 @@ def numbcheck (numb):
 
 def compare(a, numb):
     if numb>a:
-        print(f'Your number {numb} is bigger then a\n')
+        print(f'Your number {numb} is bigger than a\n')
     elif(numb<a):
-        print(f'Your number {numb} is less then a\n')
+        print(f'Your number {numb} is less than a\n')
     else:
         print("You won!")
         exit()
